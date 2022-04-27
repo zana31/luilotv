@@ -61,7 +61,7 @@
     "cartoon_path": "/ajax/vsozrflxcw.php",
     "flix_path": "/ajax/gonlflhyad.php",
     "isWebsocket": "web",
-    "hashkey": "XXXXXXXXXX",
+    "hashkey": "JlPaKYYxoClgwDTyv790kxtg4YI=",
     "api_cartoon": "https://api.cartoonhd.biz",
     "collection": "{\\\"info\\\": [ { \\\"id\\\": \\\"jarvis-3429839\\\",\\\"list_id\\\": \\\"new-hd-releases\\\", \\\"type\\\": \\\"movies\\\", \\\"name\\\": \\\"New HD releases\\\" }, { \\\"id\\\": \\\"tetharion\\\", \\\"list_id\\\": \\\"dc-extended-universe\\\", \\\"type\\\": \\\"movies\\\", \\\"name\\\": \\\"DC Extended Universe\\\" }, { \\\"id\\\": \\\"andreofgyn\\\", \\\"list_id\\\": \\\"2018-oscar-nominees-winners\\\", \\\"type\\\": \\\"movies\\\", \\\"name\\\": \\\"2018 - Oscar Nominees & Winners\\\" } ,{ \\\"id\\\": \\\"andreofgyn\\\", \\\"list_id\\\": \\\"2018-golden-globe-nominees-winners\\\", \\\"type\\\": \\\"movies\\\", \\\"name\\\": \\\"2018 - Golden Globe Nominees & Winners\\\" } ] }",
     "update_link_firebox": "https://github.com/flyhighinthesky-colab/notion/releases/download/9.9.7/TeaTV_v9.9.7r.apk",
