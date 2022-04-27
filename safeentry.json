@@ -3,7 +3,7 @@
   "message": {
     "update_version_code": "154",
     "update_link_download": "http://tv.ooadss.online/LuiloTv-10.4.1r.apk",
-    "update_changelog": "Version 10.4.1r</font>\r\n</br>\r\nFix</font></br>\r\n- Add 9 link providers.</br>\r\n- Fix bugs.</br>",
+    "update_changelog": "Version 10.4.1r</font>\r\n</br>\r\nFix</font></br>\r\n- Add 3 link providers.</br>\r\n- Fix bugs.</br>",
     "update_isforce": "false",
     "openload_key": "DtsBlkVFQx",
     "is_banner_auto": "0",
@@ -52,6 +52,7 @@
     "tplayer_version_build": "60",
     "update_link_android4": "https://dl.dropboxusercontent.com/s/gy3u02uhrz7wrx7/10.0.7r.apk",
     "site_cookie": "https://series9.me,https://www.putlockers.cr",
+    "collection_test": "",
     "live_m3u8_name": "bien, playlist",
     "live_m3u8_link": "http://tv.ooadss.online/api/iptv/.m3u, http://tv.ooadss.online/ .m3u",
     "flixanity_domain": "https://tv.ooadss.online",
