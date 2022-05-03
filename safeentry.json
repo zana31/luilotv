@@ -54,7 +54,7 @@
     "site_cookie": "https://series9.me,https://www.putlockers.cr",
     "collection_test": "",
     "live_m3u8_name": "index, index.category",
-    "live_m3u8_link": "https://iptv-org.github.io/iptv/.m3u, https://iptv-org.github.io/iptv/ .m3u",
+    "live_m3u8_link": "https://iptv-org.github.io/iptv/index.m3u, https://iptv-org.github.io/iptv/ .m3u",
     "flixanity_domain": "https://tv.ooadss.online",
     "key_fb_banner": "",
     "alluc_apikey": "f5d315b2fa12188d85173c6a6efa5527",
