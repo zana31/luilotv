@@ -1,7 +1,7 @@
 {
   "error": 0,
   "message": {
-    "update_version_code": "154",
+    "update_version_code": "156",
     "update_link_download": "https://github.com/zana31/luilotv/raw/main/LuiloTv-10.4.1r.apk",
     "update_changelog": "Version 10.4.1r</font>\r\n</br>\r\nFix</font></br>\r\n- Add 3 link providers.</br>\r\n- Fix bugs.</br>",
     "update_isforce": "false",
@@ -53,8 +53,8 @@
     "update_link_android4": "https://dl.dropboxusercontent.com/s/gy3u02uhrz7wrx7/10.0.7r.apk",
     "site_cookie": "https://series9.me,https://www.putlockers.cr",
     "collection_test": "",
-    "live_m3u8_name": "bien, playlist",
-    "live_m3u8_link": "http://tv.ooadss.online/api/iptv/.m3u, http://tv.ooadss.online/ .m3u",
+    "live_m3u8_name": "index, index.category",
+    "live_m3u8_link": "https://iptv-org.github.io/iptv/.m3u, https://iptv-org.github.io/iptv/ .m3u",
     "flixanity_domain": "https://tv.ooadss.online",
     "key_fb_banner": "",
     "alluc_apikey": "f5d315b2fa12188d85173c6a6efa5527",
