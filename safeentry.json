@@ -94,7 +94,7 @@
     "zma_key_10_1_2": "XXXXXXXXXXXXXXXXXXX",
     "custom_fullads_type1": "video",
     "is_force_tplayer": "1",
-    "custom_fullads_enable126": "1",
+    "custom_fullads_enable126": "true",
     "tplayer_update_force": "0",
     "tplayer_update_title": "Please update player Lui for better experience!",
     "aparat_cfg": "dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0QXBhcmF0ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhQXBhcmF0LCAzMDApOwp9CgpnZXREYXRhQXBhcmF0ID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBwbGF5ZXIuZ2V0Q29uZmlnKCkucGxheWxpc3RbMF0uZmlsZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlICE9PSBudWxsICYmIGNvZGUubGVuZ3RoID4gMCl7CiAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgQW5kcm9pZC5yZXR1cm5MaW5rKGNvZGUpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KDEpOwogICAgICAgIH0KICAgIH0KfQo=",
